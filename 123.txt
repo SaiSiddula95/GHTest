@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Conflict1
+=======
+conflict 2 added to new branch
+>>>>>>> Conflict
